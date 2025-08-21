@@ -1,0 +1,24 @@
+{
+  "habits": [
+    {
+      "name": "19k steps",
+      "streak": 0,
+      "last_done_date": null
+    },
+    {
+      "name": "meditate 10 min",
+      "streak": 1,
+      "last_done_date": "2025-08-19"
+    },
+    {
+      "name": "read 5 pages",
+      "streak": 0,
+      "last_done_date": null
+    },
+    {
+      "name": "Morning Workout",
+      "streak": 1,
+      "last_done_date": "2025-08-19"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "tasks": [
+    {
+      "id": "T1",
+      "goal_id": "G1",
+      "text": "Draft the opening paragraph of the blog introduction",
+      "estimate_min": 30,
+      "priority": "high"
+    },
+    {
+      "id": "T2",
+      "goal_id": "G2",
+      "text": "Read and comment on the pull request",
+      "estimate_min": 25,
+      "priority": "high"
+    },
+    {
+      "id": "T3",
+      "goal_id": "G3",
+      "text": "Create an outline for the meeting slides",
+      "estimate_min": 30,
+      "priority": "high"
+    },
+    {
+      "id": "T4",
+      "goal_id": "G4",
+      "text": "Go for a 30-minute run",
+      "estimate_min": 30,
+      "priority": "medium"
+    },
+    {
+      "id": "T1",
+      "goal_id": "G1",
+      "text": "Draft the first paragraph of the blog introduction",
+      "estimate_min": 30,
+      "priority": "high"
+    },
+    {
+      "id": "T2",
+      "goal_id": "G2",
+      "text": "Review code changes in pull request #431",
+      "estimate_min": 20,
+      "priority": "medium"
+    },
+    {
+      "id": "T3",
+      "goal_id": "G3",
+      "text": "Create the first slide for the client demo",
+      "estimate_min": 15,
+      "priority": "high"
+    },
+    {
+      "id": "T4",
+      "goal_id": "G3",
+      "text": "Create the second slide for the client demo",
+      "estimate_min": 15,
+      "priority": "high"
+    },
+    {
+      "id": "T5",
+      "goal_id": "G3",
+      "text": "Create the third slide for the client demo",
+      "estimate_min": 15,
+      "priority": "high"
+    },
+    {
+      "id": "T6",
+      "goal_id": "G4",
+      "text": "Go for a 30-minute run",
+      "estimate_min": 30,
+      "priority": "medium"
+    },
+    {
+      "id": "T1",
+      "goal_id": "G1",
+      "text": "Edit the first half of the blog post",
+      "estimate_min": 30,
+      "priority": "high"
+    },
+    {
+      "id": "T2",
+      "goal_id": "G1",
+      "text": "Edit the second half of the blog post",
+      "estimate_min": 30,
+      "priority": "high"
+    },
+    {
+      "id": "T3",
+      "goal_id": "G2",
+      "text": "Reply to urgent emails",
+      "estimate_min": 25,
+      "priority": "medium"
+    },
+    {
+      "id": "T4",
+      "goal_id": "G3",
+      "text": "Go for a 20-minute run",
+      "estimate_min": 20,
+      "priority": "high"
+    }
+  ]
+}
